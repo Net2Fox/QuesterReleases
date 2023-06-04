@@ -1,2 +1,1 @@
 # QuesterReleases
-Quester releases repo
